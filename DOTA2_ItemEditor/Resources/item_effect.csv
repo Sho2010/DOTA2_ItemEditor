@@ -1,0 +1,132 @@
+item_arcane_ring,Ring of Aquila,+9 Damage\r\n+3 All Stats\r\n+3 Agility\r\n+1 Armor\r\nこのアイテムを使用することで、オーラの効果をヒーロー限定にすることができる。(トグル式*再使用で全味方ユニット)\r\nオーラ 範囲900\r\n+0.65 Mana Regeneration\r\n+2 armor (Assault CuirassやVladmir's Offeringの効果とは重複しない)
+item_armlet,Armlet of Mordiggian,"+9 Damage\r\n+15 Attack Speed\r\n+5 Armor\r\n+8 HP/sec Regeneration\r\nUnholy Strength\r\nON	Strength+25、Damage +31、攻撃速度 +10、毎秒40ダメージを受ける。\r\nOFF	ダメージ量を保存した状態でもとの最大HPに戻る。\r\nクールダウンについて\r\nONにしてから2秒間は再びONにすることができない。\r\nONにしてから秒経過していれば、ON⇒OFF⇒ONと瞬時に切り替えることが"
+item_assault,Assault Cuirass,+10 Armor\r\n+35 Attack Speed\r\nオーラ 範囲900\r\n+20 Attack Speed\r\n+5 Armor\r\n-5 Enemy Armor
+item_basher,Skull Basher,"+40 Damage\r\n+6 Strength\r\nBash\r\n攻撃時、Melee:25% Rangeヒーロー:10%の確率で相手を1.4秒間スタンさせる(CD2秒)。\r\nこのアイテムは、以下のスキルとは共には機能しない。\r\nSlardar's Bash,Troll Warlord's Bash,Faceless Void's Time Lock."
+item_belt_of_strength,Belt of Strength,+6 Strength
+item_bfury,Battle Fury,+65 Damage\r\n+6 HP/sec Regeneration\r\n+150% Mana Regeneration\r\nCleave\r\n通常攻撃時、攻撃力の35%のダメージを範囲225の敵に与える。\r\nRange攻撃では範囲ダメージは発生しない。\r\n複数本持つと、スプラッシュダメージの倍率が増加する。
+item_black_king_bar,Black King Bar,"+10 Strength\r\n+24 Damage\r\nAvatar\r\nマジック属性のダメージを受けなくなる。しかし、スーパーマジック属性は防げない。（Ultについているスタン等）\r\n使用時、使用中buffも無効化される。\r\nCDと効果時間は使用する度に減少していく。\r\n中古は売れない\r\n消費マナ	CD	効果時間\r\n-	80/75/70/65/60/55	10/9/8/7/6/5\r\n"
+item_blade_mail,Blade Mail,"+22 Damage\r\n+5 Armor\r\n+10 Intelligence\r\nDamage Return\r\n消費マナ	CD	効果時間	効果\r\n25	22	4.5	効果時間中、自身が受けたダメージ分を相手にも与える。\r\nDamage type: pure"
+item_blades_of_attack,Blades of Attack,+9 Damage
+item_blade_of_alacrity,Blade of Alacrity,+10 Agility
+item_blink,Blink Dagger,"Blink\r\n消費マナ	CD	効果\r\n75	14	距離1200をテレポートできる。\r\n敵ヒーローや敵のコントロール下にあるクリープ、またはRoshanから攻撃された場合は3秒間使用不可能。\r\n2回押すと自陣方面に飛ぶので緊急避難etc。\r\nPudgeとvengeは所持できない"
+item_bloodstone,Bloodstone,+500 HP\r\n+400 Mana\r\n+9 HP/sec Regeneration\r\n+200% Mana Regeneration\r\n範囲1600以内で敵ヒーローが死亡した場合にチャージ数+1(購入時チャージ数6)\r\nチャージ数1につき 1 Mana regeneration を得る。\r\n自分が死亡したとき以下の効果が発動する。\r\n範囲1675以内の味方ユニットのHPを400+チャージ数*30回復する。\r\nチャージ数が３分の１減る。（端数は切り上げ）\r\n死亡地点の視
+item_boots,Boots of Speed,+50 Movement Speed
+item_boots_of_elves,Boots of Elvenskin,+6 Agility
+item_bottle,Bottle,使用することで、使用者は3秒間かけてHP135とMP70を回復する。\r\n攻撃を受けると中断される。\r\n満タンの状態から3回使用できる。\r\n空のBottleは自陣ベースに戻るかRuneを使うとチャージされる。 (クールダウン 0.5秒)\r\n空のBottleをRuneに使用すると、Bottleの中に120秒間ルーンを保存できる。
+item_bracer,Bracer,+3 Damage\r\n+6 Strength\r\n+3 Agility\r\n+3 Intelligence
+item_branches,Iron Branch,+1 All Attributes
+item_broadsword,Broadsword,+18 Damage
+item_buckler,Buckler,"+5 Armor\r\n+2 All Attributes\r\nArmor Bonus\r\n消費マナ	CD	範囲	効果時間	対象\r\n10	20	700	30	味方ユニット\r\n効果\r\n範囲内にいる味方ユニットに +2 armor を付与する。ヒーローは25秒間、ユニットは30秒間持続する。\r\n"
+item_butterfly,Butterfly,+30 Agility\r\n+30 Damage\r\n35% Evasion\r\n+30 Attack Speed
+item_chainmail,Chainmail,+5 Armor
+item_circlet,Circlet,+2 All Attributes
+item_clarity,Clarity,30秒かけて100マナ回復する。\r\nこの効果はダメージを受けると消える。\r\n自身、または味方に使用可能。\r\nダブルクリックで自身に使用。
+item_claymore,Claymore,+21 Damage
+item_cloak,Cloak,+15% Spell Resistance
+item_courier,Animal Courier,ベースからアイテムを運ぶことのできる小さく速いユニットを召喚する。\r\nAnimal Courierが死んだ場合、3分後に復活する。復活までCourierの所持アイテムにはアクセスすることができない。\r\n召喚には5マナ消費し、倒されると敵プレーヤー全員に175Goldを与える。
+item_flying_courier,Flying Courier,Flying Courierが死んだ場合、3分後に復活する。復活までCourierの所持アイテムにはアクセスすることができない。\r\n倒されると敵プレーヤー全員に175Goldを与える。\r\nBurst\r\n20秒間、Flying Courieの移動速度が最大 (522) になる。クールダウン 40秒
+item_cyclone,Eul's Scepter of Divinity,"+10 Intelligence\r\n+150% Mana Regeneration\r\n+30 Movement Speed\r\nCyclone\r\n消費マナ	CD	射程	効果時間	対象\r\n75	30	700	2.5	敵/味方ユニット\r\n効果\r\n指定したユニットを2.5秒間行動不能かつ無敵にする。\r\nダブルクリックで即座に自分に使用。"
+item_dagon,Dagon,"+13/15/17/19/21 Intelligence\r\n+3 All Attributes\r\n+9 Damage\r\nレシピのみを買い足すことにより4回まで強化できる。\r\nEnergy Burst\r\nLevel	消費マナ	CD	射程	対象	効果\r\n1	180	35	600	敵ユニット	指定した敵ユニットに 400 ダメージ\r\n2	160	30	650	敵ユニット	指定した敵ユニットに 500 ダメージ\r\n3	140	25	700	敵ユニット	指定した敵ユニットに 600 "
+item_demon_edge,Demon Edge,+46 Damage
+item_desolator,Desolator,+60 Damage\r\nCorruption\r\n敵ユニットのArmorを15秒間7下げる。\r\n建物にも効果がある。\r\n効果は重複しない。\r\nUnique Attack Modifier
+item_diffusal_blade,Diffusal Blade,"+22/26 Agility\r\n+6/10 Intelligence\r\nFeedback\r\n攻撃時、相手のマナを 20(強化後36) 減らし 100% の物理ダメージを与える。\r\nUnique Attack Modifier\r\nPurge\r\nCD	射程	効果時間	対象\r\n8	600	4	敵/味方ユニット\r\n効果\r\n敵に使用した場合\r\n有利なBuffを取り除き、移動速度を85%下げる。\r\n徐々に効果が薄れ4秒で元の移動速度に戻る。召還、イリュージョンに使用した場合"
+item_diffusal_blade_2,Diffusal Blade,"+22/26 Agility\r\n+6/10 Intelligence\r\nFeedback\r\n攻撃時、相手のマナを 20(強化後36) 減らし 100% の物理ダメージを与える。\r\nUnique Attack Modifier\r\nPurge\r\nCD	射程	効果時間	対象\r\n8	600	4	敵/味方ユニット\r\n効果\r\n敵に使用した場合\r\n有利なBuffを取り除き、移動速度を85%下げる。\r\n徐々に効果が薄れ4秒で元の移動速度に戻る。召還、イリュージョンに使用した場合"
+item_dust,Dust of Appearance,12秒間、自身の周囲1050以内の透明ユニットを看破することができる。\r\n1つ買えば2回使用できる。
+item_eagle,Eaglesong,+25 Agility
+item_energy_booster,Energy Booster,+250 Mana
+item_ethereal_blade,Ethereal Blade,"+40 Agility\r\n+10 Strength\r\n+10 Intelligence\r\nEther Blast\r\n消費マナ	CD	射程	効果時間	対象\r\n150	30	800	3	敵ユニット/味方ユニット\r\n効果\r\n指定した対象と自分ををEthereal状態にする。\r\nまた、対象が敵ユニットの場合は、移動速度 -80% にし、75 + 自身のprimary attribute×2 のダメージを与える。\r\nクールダウンは、Ghost Scepterと共有される。"
+item_flask,Healing Salve,,"10秒かけて400HP回復する。\r\nこの効果はダメージを受けると消える。\r\n自身、または味方に使用可能。\r\nダブルクリックで自身に使用。\r\n回復効果はTangoと重複するが、Urn of Shadowsとは重複しない。"
+item_force_staff,Force Staff,"+10 Intelligence\r\n+3 HP/sec Regeneration\r\nForce\r\n消費マナ	CD	射程	対象\r\n25	20	800	敵/味方ユニット\r\n効果\r\n指定したユニットを正面方向にリープ(0.3秒)(距離600)させる。\r\n正面に木が生えている場合は、それを破壊する。また、崖も飛び越えることができる。\r\nKinetic Fieldから出られない。\r\nPower Cogsを飛び越えようとしてもビヨーンてなる。\r\n出られるけどビヨーン、入れないし"
+item_gauntlets,Gauntlets of Strength,+3 Strength
+item_gem,Gem of True Sight,死亡時にその場に落とす。\r\nショップには1つしかストックされず、購入してから10分後に再びストックされる。\r\nTrue Sight\r\n範囲1100のInvisible状態のものを看破できるようになる。\r\nCourier や Flying courier で運んでいる間は効果が出ない。
+item_ghost,Ghost Scepter,+7 All Attributes\r\nGhost Form\r\n敵ユニットに通常攻撃ができなくなり、またされなくなるが、magicalタイプの被ダメージが+40％される。\r\n自身がすでにmagic immune状態である場合は、この効果は発動できない。\r\n効果時間 4秒\r\nクールダウン 30秒 (クールダウンはEthereal Bladeと共有される)
+item_gloves,Gloves of Haste,+15 Attack Speed
+item_greater_crit,Daedalus,+81 Damage\r\nCritical Strike\r\n25%の確率で通常攻撃のダメージが2.7倍になる。
+item_hand_of_midas,Hand of Midas,+30 Attack Speed\r\nTransmute\r\nAncientではないクリープを1体殺して、通常の1.5倍の経験値と190ゴールドを得る(通常得られるゴールドは手に入らない)。\r\nクールダウン 100秒
+item_headdress,Headdress,+2 All Atributes\r\nオーラ 範囲500\r\n+3 HP regeneration
+item_heart,Heart of Tarrasque,+40 Strength\r\n+300 HP\r\nHealth Regeneration\r\n自身の最大HPの2%/秒回復。(敵ヒーロー、敵のコントロール下にあるユニット、Roshanから攻撃を受けた場合、6秒間は回復が中断される。[自身がmeleeヒーローなら4秒間])\r\nこの効果は重複しない。
+item_helm_of_iron_will,Helm of Iron Will,+5 Armor\r\n+3 HP/sec Regeneration
+item_helm_of_the_dominator,Helm of the Dominator,"+20 Damage\r\n+5 Armor\r\nLifesteal\r\n+15% Lifesteal\r\nUnique Attack Modifier\r\nDominate\r\n消費マナ	CD	射程	効果時間	対象\r\n75	60	700	-	敵/中立クリープ(Ancent除く)\r\n効果\r\nAncient/味方以外のクリープを自身のコントロール下に置ける。\r\n新しいクリープを雇うと古いのは死ぬ。"
+item_hood_of_defiance,Hood of Defiance,+30% Spell Resistance\r\n+8 HP/sec Regeneration
+item_hyperstone,Hyperstone,+55 Attack Speed
+item_invis_sword,Shadow Blade,"+30 Damage\r\n+30 Attack Speed\r\nShadow Walk\r\n消費マナ	CD	効果\r\n75	18	9秒間Invisible状態になり、移動速度+20%。Invisibleになるまで0.3秒かかる。\r\nInvisible状態からの通常攻撃に150ダメージ追加される。"
+item_javelin,Javelin,+21 Damage\r\n攻撃時、 20% の確率で 40 の追加ダメージを与える。
+item_lesser_crit,Crystalys,+35 Damage\r\nCritical Strike\r\n20%の確率で通常攻撃のダメージが1.75倍になる。
+item_lifesteal,Morbid Mask,Lifesteal\r\n+15% Lifesteal\r\nUnique Attack Modifier
+item_sphere,Linken's Sphere,"+15 All Attributes\r\n+6 HP/sec regeneration\r\n+150% mana regeneration\r\nSpell Block\r\nCD	効果\r\n20	自身を対象とするスペル攻撃を自動で無効化する。\r\n※現在バグで一部の対象指定可能なAoEスキルを指定されずともブロックする。"
+item_maelstrom,Maelstrom,+24 Damage\r\n+25 Attack Speed\r\nChain Lightning\r\n攻撃時25%の確率でChain Lightningが発動し、周囲(500)の敵4体に120マジックダメージを与える。\r\nUnique Attack Modifier
+item_magic_stick,Magic Stick,周囲1200で敵ヒーローがアクティブスペルを使用するとチャージ+1。最大10チャージ。\r\nEnergy Charge\r\n全てのチャージを消費し、チャージ数1につきHP・マナをそれぞれ15回復させる。
+item_magic_wand,Magic Wand,周囲1200で敵ヒーローがアクティブスペルを使用するとチャージ+1。最大15チャージ。\r\n+3 All Attributes\r\nEnergy Charge\r\n全てのチャージを消費し、チャージ数1につきHP・マナをそれぞれ15回復させる。\r\n※Magic Stickのチャージ数をそのまま引き継ぐことが出来る。
+item_manta,Manta Style,"+26 Agility\r\n+10 Strength\r\n+10 Intelligence\r\n+15 Attack Speed\r\n+10% Movement Speed\r\nMirror Image\r\n消費マナ	CD	効果時間	攻撃力	被ダメージ\r\nMelee	165	35	20	33%	350%\r\nRange	165	50	20	28%	400%\r\n効果\r\n自身に掛かっているBuffを取り除き、2対のイリュージョンを生み出す。"
+item_mantle,Mantle of Intelligence,+3 Intelligence
+item_mask_of_madness,Mask of Madness,"Lifesteal+17% Lifesteal\r\nUnique Attack Modifier\r\nBerserk\r\n消費マナ	CD	効果時間	対象	効果\r\n25	25	12	自分	移動速度+30%、攻撃速度+100、被ダメージ+30%\r\n"
+item_mekansm,Mekansm,"+5 All Attributes\r\n+5 Armor\r\nオーラ 範囲500\r\n+4 HP regeneration\r\nRestore\r\n消費マナ	CD	範囲	効果時間	対象\r\n150	45	750	25	味方ユニット\r\n効果\r\n範囲内の味方ユニットのHPを250回復し、+2 armor を付与する。効果を受けたユニットは25秒間同じ効果を得ることはできない。"
+item_mithril_hammer,Mithril Hammer,+24 Damage
+item_mjollnir,Mjollnir,"+80 Attack Speed\r\n+24 Damage\r\nChain Lightning\r\n攻撃時25%の確率でChain Lightningが発動し、周囲(500)の敵8体に160マジックダメージを与える。\r\nUnique Attack Modifier\r\nStatic Charge\r\n消費マナ	CD	射程	効果時間	対象\r\n50	35	600	20	味方ユニット\r\n効果\r\n対象に雷のシールドを張る。\r\n攻撃されたとき20%の確立でLightningが発動し、2"
+item_monkey_king_bar,Monkey King Bar,+88 Damage\r\n+15 Attack Speed\r\nTrue Strike\r\n攻撃が必ず当たるようになる。ON/OFF切り替え可能。\r\nMini-Bash\r\n通常攻撃時、35%の確率で100追加ダメージと0.01秒スタンを与える。
+item_mystic_staff,Mystic Staff,+25 Intelligence
+item_necronomicon,Necronomicon,"+15/21/24 Intelligence\r\n+8/12/16 Strength\r\nレシピのみを買い足すことにより2回まで強化できる。\r\nDemonic Summon\r\nNecronomicon Warrior と Necronomicon Archer を召喚する。彼らの強さはNecronomiconのレベルによって変わる。\r\nCD	消費マナ	効果時間\r\n80	50	35\r\nNecronomicon Warrior (melee)\r\nLevel	HP	Armor	ダメー"
+item_necronomicon_2,Necronomicon,"+15/21/24 Intelligence\r\n+8/12/16 Strength\r\nレシピのみを買い足すことにより2回まで強化できる。\r\nDemonic Summon\r\nNecronomicon Warrior と Necronomicon Archer を召喚する。彼らの強さはNecronomiconのレベルによって変わる。\r\nCD	消費マナ	効果時間\r\n80	50	35\r\nNecronomicon Warrior (melee)\r\nLevel	HP	Armor	ダメー"
+item_necronomicon_3,Necronomicon,"+15/21/24 Intelligence\r\n+8/12/16 Strength\r\nレシピのみを買い足すことにより2回まで強化できる。\r\nDemonic Summon\r\nNecronomicon Warrior と Necronomicon Archer を召喚する。彼らの強さはNecronomiconのレベルによって変わる。\r\nCD	消費マナ	効果時間\r\n80	50	35\r\nNecronomicon Warrior (melee)\r\nLevel	HP	Armor	ダメー"
+item_null_talisman,Null Talisman,+3 Damage\r\n+6 Intelligence\r\n+3 Strength\r\n+3 Agility
+item_oblivion_staff,Oblivion Staff,+6 Intelligence\r\n+10 Attack Speed\r\n+15 Damage\r\n+75% Mana Regeneration
+item_ogre_axe,Ogre Club,+10 Strength
+item_orchid,Orchid Malevolence,"+25 Intelligence\r\n+30 Attack Speed\r\n+30 Damage\r\n+150% Mana Regeneration\r\nSoul Burn\r\n消費マナ	CD	射程	効果時間	対象\r\n100	18	900	5	敵ユニット\r\n効果\r\n指定した敵ユニットを5秒間Silence状態にする。\r\nまた、効果中に対象が受けたダメージの30%を、追加ダメージとして効果時間後に与える。\r\n"
+item_pers,Perseverance,+10 Damage\r\n+5 HP/sec Regeneration\r\n+125% Mana Regeneration
+item_phase_boots,Phase Boots,+55 movement speed\r\n+24 damage\r\nPhase
+item_pipe,Pipe of Insight,"+11 HP/sec Regeneration\r\n+30% Spell Resistance\r\nBarrier\r\n消費マナ	CD	範囲	効果時間	対象\r\n100	60	500	10	味方ユニット\r\n効果\r\n周囲の味方ユニットに短時間のマジックダメージ吸収シールドを発生させる。\r\nシールドは400ダメージ分吸収することができる。効果を受けたユニットは50秒間同じ効果を得ることはできない。"
+item_platemail,Platemail,+10 Armor
+item_point_booster,Point Booster,+200 HP\r\n+150 Mana
+item_poor_mans_shield,Poor Man's Shield,+6 Agility\r\nDamage Block\r\nヒーローからの攻撃を100%の確率で20ダメージ軽減、Rangeの場合10ダメージ軽減する。\r\nヒーロー以外のユニットからは60%の確率で20ダメージ軽減、Rangeの場合10ダメージ軽減する。
+item_power_treads,Power Treads,"+55 Move Speed\r\n+8 Selected Attribute (Str, Agi, Int のいずれか)\r\n+30 Attack Speed\r\nSwitch Attribute\r\n使用する度に、Strength→Intelligence→Agility→Strength...と上昇ステータス(+8)を変更する"
+item_quarterstaff,Quarterstaff,+10 Damage\r\n+10 Attack Speed
+item_quelling_blade,Quelling Blade,"Meleeヒーローの場合、クリープに対し +32% ダメージ。\r\nRangeヒーローの場合、クリープに対し +12% ダメージ。\r\nTree Chop\r\n消費マナ	CD	射程	効果\r\n-	5	100	指定した木を切り倒す。\r\n"
+item_radiance,Radiance,+60 Damage\r\nBurn Damage\r\n範囲650の敵ユニットに毎秒45マジックダメージを与える。
+item_rapier,Divine Rapier,+300 Damage\r\n死亡時その場に落とす。落ちたDivine Rapierを破壊することはできない。\r\n落ちたDivine Rapierは、敵味方関係なく拾うことができる。
+item_reaver,Reaver,+25 Strength
+item_refresher,Refresher Orb,"+6 Intelligence\r\n+5 HP/Sec Regeneration\r\n+200% Mana Regeneration\r\n+40 Damage\r\nReset Cooldowns\r\n消費マナ	CD	効果\r\n375	160	すべてのスキル・アイテムのクールダウンをリセットする。\r\n"
+item_aegis,Aegis of the Immortal,
+item_cheese,Cheese,
+item_relic,Sacred Relic,+60 Damage
+item_ring_of_basilius,Ring of Basilius,+6 Damage\r\n+1 Armor\r\nこのアイテムを使用することで、オーラの効果をヒーロー限定にすることができる。(トグル式*再使用で全味方ユニット)\r\nオーラ 範囲900\r\n+0.65 Mana Regeneration\r\n+2 armor (Assault CuirassやVladmir's Offeringの効果とは重複しない)
+item_ring_of_health,Ring of Health,+5 HP/sec Regeneration
+item_ring_of_protection,Ring of Protection,+2 Armor
+item_ring_of_regen,Ring of Regen,+2 HP/sec Regeneration
+item_robe,Robe of the Magi,+6 Intelligence
+item_sange,Sange,+16 Strength\r\n+10 Damage\r\nLesser Maim\r\n攻撃時15%の確率で敵の攻撃速度と移動速度を20%、4秒間低下させる。
+item_sange_and_yasha,Sange and Yasha,+16 Agility\r\n+16 Strength\r\n+12 Damage\r\n+15 Attack Speed\r\n+12% Movement Speed\r\nGreater Maim\r\n攻撃時15%の確率で敵の攻撃速度と移動速度を30%、4秒間低下させる。
+item_satanic,Satanic,"+25 Strength\r\n+20 Damage\r\n+5 Armor\r\nLifesteal\r\n+25% Lifesteal\r\nUnique Attack Modifier\r\nUnholy Rage\r\nCD	効果時間	対象	効果\r\n35	3.5	自分	+150% Lifesteal\r\n"
+item_sheepstick,Scythe of Vyse,"+35 Intelligence\r\n+10 Strength\r\n+10 Agility\r\n+150% Mana Regeneration\r\nHex\r\n消費マナ	CD	射程	効果時間	対象\r\n100	35	800	3.5	敵ユニット\r\n効果\r\n指定した敵ユニットを無力な移動速度100の物体に変化させる。"
+item_shivas_guard,Shiva's Guard,"+30 Intelligence\r\n+15 Armor\r\nオーラ 範囲900\r\n-25% Enemy Attack Speed\r\nArctic Blast\r\n消費マナ	CD	範囲	効果時間	対象	効果\r\n100	30	719	4	敵ユニット	範囲内の敵ユニットに200ダメージを与え、移動速度を-40%にする。"
+item_skadi,Eye of Skadi,+25 All Attributes\r\n+200 HP\r\n+150 Mana\r\nCold Attack\r\n攻撃を当てた対象を凍結状態にし、移動速度 -30%、攻撃速度 -20% にする。\r\n効果時間は所持したヒーローの攻撃タイプによって変わる。(melee 5秒、range 3秒)\r\nUnique Attack Modifier
+item_slippers,Slippers of Agility,+3 Agility
+item_sobi_mask,Sage's Mask,+50% Mana regeneration
+item_soul_booster,Soul Booster,+450 HP\r\n+400 Mana\r\n+4 HP/sec Regeneration\r\n+100% Mana Regeneration
+item_soul_ring,Soul Ring,+3 HP/sec Regeneration\r\n+50% Mana Regeneration\r\nSacrifice
+item_staff_of_wizardry,Staff of Wizardry,+10 Intelligence
+item_stout_shield,Stout Shield,Damage Block\r\nMeleeヒーローが持つと、 60% の確率で -20 ダメージ。Rangeヒーローが持つと -10 ダメージ。\r\n攻撃元がMeleeかRangeかは関係ない。
+item_talisman_of_evasion,Talisman of Evasion,25% Evasion
+item_tango,Tango,木を食べ16秒かけて115HP回復する。\r\n木を指定して使う。\r\nPurgeはステータスアイコンが残っていてもこの効果を終了させる。
+item_tpscroll,Town Portal Scroll,"味方の建物の範囲525内にテレポートする。ダブルクリックすることで泉にテレポートする。\r\n指定した地点の範囲200にはエフェクトが見え、味方のミニマップにはPingをしたときと同じ表示がされる。\r\nテレポートし終わったとき、指定した地点の周囲の木を破壊する。\r\n詠唱時間は25秒以内に指定した地点の範囲1100以内にテレポートした味方の数で決まる。\r\nここ最近で最初のテレポートであれば1秒詠唱時間が追加される。\r\n追加でテレポートする度に2秒追加される。\r\nデフォルトの詠唱時間は3秒。\r\n泉を指定してテレポートした場合は味方に詠唱時間追加の効果を与えることはない。\r\nクールダウンはBoots of Travelと共有。\r\n消費マナ	CD\r\n75	65\r\n"
+item_travel_boots,Boots of Travel,"+100 movement speed\r\nTeleport\r\n消費マナ	CD	対象\r\n75	60	味方建物/味方クリープ\r\n効果\r\n指定した味方建物か、味方クリープに3秒間の詠唱後ワープすることができる。\r\nCDはTown Portal Scrollと共有。ダブルクリックすることで自陣ベースにテレポートする。"
+item_ultimate_orb,Ultimate Orb,+10 All Attributes
+item_ultimate_scepter,Aghanim's Scepter,+10 All Attributes\r\n+200 HP\r\n+150 mana\r\nUltimate Upgrade\r\n特定のヒーローのUltimateが強化される。(*強化される内容)
+item_urn_of_shadows,Urn of Shadows,"+50% Mana Regeneration\r\n+6 Strength\r\nSoul Release\r\n周囲1400以内で敵ヒーローが死ぬと、チャージ数+1。Urn of Shadowsを持つヒーローが複数いても、うちひとつにしかチャージは貯まらない。\r\nチャージ数0の状態で、周囲1400以内で敵ヒーローが死ぬとチャージ数+2。\r\nCD	射程	効果時間	対象\r\n10	950	8秒	敵/味方ユニット\r\n効果\r\n敵を指定した場合\r\n8秒かけて、合計150ダメージを持続的に与え"
+item_vanguard,Vanguard,"+6 HP/sec regeneration\r\n+250 HP\r\nDamage Block\r\n所持者	効果\r\nMelee	60%の確率で、物理ダメージを40軽減する。\r\nRange	60%の確率で、物理ダメージを20軽減する。"
+item_vitality_booster,Vitality Booster,+250 HP
+item_vladmir,Vladmir's Offering,"+2 HP/sec Regeneration\r\nオーラ 範囲900\r\n+16% Lifesteal (Melee Only)\r\n+15% Base Damege\r\n+5 Armor (Assault Cuirass,やRing of Basilius とは重複しない)\r\n+0.8 Mana Regeneration"
+item_void_stone,Void Stone,+100% Mana Regeneration
+item_ward_observer,Observer Ward,設置することで、自身を含む味方ヒーローはその周囲1600の視野を得ることができる。(このワードはInvisible状態)\r\nコストは200だが、ワードが2本入っている。1本づつ購入することはできない。\r\nショップに最大2セットストックされ、減った場合6分に1セットづつ補給される。\r\n上空からの視野でないため、木によって視野は防がれてしまう。
+item_ward_sentry,Sentry Ward,Invisibleユニットを見る視野 (950) を確保可能なワードを設置する。(このワードはInvisible状態)\r\nコストは200だが、ワードは2本入っている。1本づつ購入することはできない。
+item_wraith_band,Wraith Band,+3 Damage\r\n+6 Agility\r\n+3 Strength\r\n+3 Intelligence
+item_yasha,Yasha,+16 Agility\r\n+15 Attack Speed\r\n+10% Movement Speed
+item_arcane_boots,Arcane Boots,"+60 Movement Speed\r\n+250 Mana\r\nReplenish Mana\r\n消費マナ	CD	範囲	対象	効果\r\n25	55	600	味方ユニット	範囲内にいる味方ユニットのマナを135回復する。\r\n"
+item_orb_of_venom,Orb of Venom,Poison Attack\r\n通常攻撃に毒を付与する。毒は4秒間、毎秒3ダメージとスロー12%(Rangedの場合4%)を与える。\r\nUnique Attack Modifier
+item_ancient_janggo,Drum of Endurance,"+9 All Attributes\r\n+3 Damage\r\nオーラ 範囲900\r\n+5 attack speed\r\n+5% movement speed\r\nEndurance\r\n消費マナ	CD	範囲	効果時間	対象\r\n-	30	900	6	味方ユニット\r\n効果\r\nチャージ数を1消費することで、6秒間範囲内の味方ユニットに、攻撃速度 +10 移動速度 +10%を付与する。\r\n購入時のチャージ数は4で、レシピを追加購入することでチャージ数を補充できる。"
+item_medallion_of_courage,Medallion of Courage,"+6 Armor\r\n+50% Mana Regeneration\r\nValor\r\nCD	射程	効果時間	対象	効果\r\n7	800	7	敵ユニット/自分	指定した敵ユニットと自分の Armor -6\r\n"
+item_smoke_of_deceit,Smoke of Deceit,,"範囲1200以内にいる味方プレイヤーのコントロール下にあるすべてのユニットに効果がある。\r\n透明になり15%の移動速度ボーナスを得て、敵のミニマップに表示されなくなる。\r\nSmoke of Deceitを使って透明になったユニットが敵ヒーローか敵の建物の範囲1025内に入るか攻撃をするとこの効果は中断する。\r\nSmoke of Deceitによって透明状態になっている間は、スキルやアイテムを使用しても透明状態は解除されない。\r\n40秒間効果があり、90秒のクールダウンがある。\r\nSmoke of Deceitは店に最大3つまでストックされ、1つ補充されるのに12分かかる。"
+item_veil_of_discord,Veil of Discord,"+6 Armor\r\n+6 HP/sec Regeneration\r\n+12 Intelligence\r\nDiscord\r\n消費マナ	CD	射程	範囲	効果時間\r\n75	30	100	550	20\r\n効果\r\n指定した範囲の敵ユニットに対し、被マジックダメージ +25% を付与する。\r\n"
+item_tranquil_boots,Tranquil Boots,"+75 movement speed\r\n+3 HP/sec regeneration\r\n+3 Armor\r\nRejuvenate\r\n消費マナ	CD	効果時間	対象\r\n24	40	10	自身\r\n効果\r\n10秒かけて自身のHP170を回復する。\r\n敵ヒーローから1度攻撃されると3秒間、また、連続して3回以上攻撃されると10秒間は使用できない。\r\n敵ヒーローから連続して4回以上攻撃されると、10秒間はBoots of Speedの効果しか得られず、Rejuvenateも使用す"
+item_rod_of_atos,Rod of Atos,"+25 Intelligence\r\n+325 HP\r\nCripple\r\n消費マナ	CD	射程	効果時間	対象\r\n50	16	1200	4	敵ユニット\r\n効果\r\n指定した敵ユニットに4秒間、移動速度-60%の効果を与える。"
+item_abyssal_blade,Abyssal Blade,"+100 Damage\r\n+10 Strength\r\nBash\r\n攻撃時、Melee:25% Range:10%の確率で1.4秒間スタンさせる（CD2秒)。\r\n以下のアイテム・スキルとは重複しない。\r\nAbyssal Blades, Skull Basher, Slardar's Bash, Troll Warlord's Bash, or Faceless Void's Time Lock.\r\nOverwhelm\r\n消費マナ	CD	射程	効果時間	対象\r\n150	60	1"
+item_heavens_halberd,Heaven's Halberd,"+25 Damage\r\n+20 Strength\r\n25％ Evasion\r\nLesser Maim\r\n攻撃時15%の確率で移動速度と攻撃速度 -20%の効果を与える。\r\nDisarm\r\n消費マナ	CD	射程	効果時間	対象\r\n100	30	600	Melee:3 Range:4.5	敵ユニット\r\n効果\r\n指定した敵ユニットは、一定時間通常攻撃ができなくなる。"
